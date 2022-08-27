@@ -1,0 +1,13 @@
+1661558823462	geckodriver	INFO	Listening on 127.0.0.1:63231
+1661558826534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilehnjy05"
+1661558826823	Marionette	INFO	Marionette enabled
+1661558826828	Marionette	INFO	Listening on port 63241
+WebDriver BiDi listening on ws://localhost:63232
+Read port: 63241
+1661558826929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1661558826945	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63230","sslProxy":"127.0.0.1:63230"}
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilehnjy05\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63232/devtools/browser/91d39e3d-a475-42c8-b0ec-9c93f29f9ada
+1661558839606	Marionette	INFO	Stopped listening on port 63241
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
