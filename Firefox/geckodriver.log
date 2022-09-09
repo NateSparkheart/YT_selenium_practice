@@ -34,3 +34,143 @@ t@https://vk.com/al_feed.php:3476:856
 @https://vk.com/al_feed.php:3476:876
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
 1661634556127	Marionette	INFO	Stopped listening on port 56387
+1662750530858	geckodriver	INFO	Listening on 127.0.0.1:49389
+1662750533940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofile0rNxiQ"
+1662750534233	Marionette	INFO	Marionette enabled
+1662750534237	Marionette	INFO	Listening on port 49405
+WebDriver BiDi listening on ws://localhost:49390
+Read port: 49405
+1662750534324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofile0rNxiQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49390/devtools/browser/9494511e-4493-4c0c-9042-32acdcb41a27
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662750551851	Marionette	INFO	Stopped listening on port 49405
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662750580077	geckodriver	INFO	Listening on 127.0.0.1:49541
+1662750583141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilenCKqLm"
+1662750583384	Marionette	INFO	Marionette enabled
+1662750583388	Marionette	INFO	Listening on port 49551
+WebDriver BiDi listening on ws://localhost:49542
+Read port: 49551
+1662750583579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilenCKqLm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49542/devtools/browser/a6ccb9ad-dde5-4522-ac91-eb51b151eb39
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://id.vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://id.vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+JavaScript error: https://vk.com/al_feed.php?__query=feed&_ref=left_nav&_rndVer=88695&al=-1&al_id=488588142, line 12: TypeError: parent is null
+1662750592293	Marionette	INFO	Stopped listening on port 49551
+1662750686063	geckodriver	INFO	Listening on 127.0.0.1:49675
+1662750689111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofile1YZ5bG"
+1662750689362	Marionette	INFO	Marionette enabled
+1662750689366	Marionette	INFO	Listening on port 49685
+WebDriver BiDi listening on ws://localhost:49676
+Read port: 49685
+1662750689551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofile1YZ5bG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49676/devtools/browser/e0de780c-eb79-4399-b171-3a7e52a08cb1
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://id.vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://id.vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+JavaScript error: https://vk.com/al_feed.php?__query=feed&_ref=left_nav&_rndVer=15171&al=-1&al_id=488588142, line 12: TypeError: parent is null
+1662750698563	Marionette	INFO	Stopped listening on port 49685
+1662750732600	geckodriver	INFO	Listening on 127.0.0.1:49791
+1662750735690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49792" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofileB5m8aU"
+1662750735931	Marionette	INFO	Marionette enabled
+1662750735935	Marionette	INFO	Listening on port 49801
+WebDriver BiDi listening on ws://localhost:49792
+Read port: 49801
+1662750736128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofileB5m8aU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49792/devtools/browser/a84a5f6e-2012-4cd9-89cf-f7e00041145b
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+1662750754311	Marionette	INFO	Stopped listening on port 49801
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662750796977	geckodriver	INFO	Listening on 127.0.0.1:50067
+1662750800016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50068" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofileYbKBgX"
+1662750800262	Marionette	INFO	Marionette enabled
+1662750800265	Marionette	INFO	Listening on port 50078
+WebDriver BiDi listening on ws://localhost:50068
+Read port: 50078
+1662750800454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofileYbKBgX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50068/devtools/browser/ce9017b0-113a-4358-acbe-0c415c91c369
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+1662750811158	Marionette	INFO	Stopped listening on port 50078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662750993064	geckodriver	INFO	Listening on 127.0.0.1:50348
+1662750996126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilec1HXfQ"
+1662750996372	Marionette	INFO	Marionette enabled
+1662750996376	Marionette	INFO	Listening on port 50358
+WebDriver BiDi listening on ws://localhost:50349
+Read port: 50358
+1662750996562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilec1HXfQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50349/devtools/browser/ea99605e-cd51-45ce-a4d6-05eb75f94183
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662751016165	Marionette	INFO	Stopped listening on port 50358
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662751031203	geckodriver	INFO	Listening on 127.0.0.1:50403
+1662751034266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50404" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofileUkXSKg"
+1662751034510	Marionette	INFO	Marionette enabled
+1662751034514	Marionette	INFO	Listening on port 50413
+WebDriver BiDi listening on ws://localhost:50404
+Read port: 50413
+1662751034709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofileUkXSKg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50404/devtools/browser/f0cff8a4-2059-4a0d-a34b-8c13d8c852aa
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662751045015	Marionette	INFO	Stopped listening on port 50413
+1662751049052	geckodriver	INFO	Listening on 127.0.0.1:50460
+1662751052115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilerY4nkJ"
+1662751052371	Marionette	INFO	Marionette enabled
+1662751052374	Marionette	INFO	Listening on port 50470
+WebDriver BiDi listening on ws://localhost:50461
+Read port: 50470
+1662751052543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1662751053882	geckodriver	INFO	Listening on 127.0.0.1:50475
+1662751056951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilesUWAyx"
+1662751057196	Marionette	INFO	Marionette enabled
+1662751057199	Marionette	INFO	Listening on port 50485
+WebDriver BiDi listening on ws://localhost:50476
+Read port: 50485
+1662751057387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kappa\\AppData\\Local\\Temp\\rust_mozprofilesUWAyx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50476/devtools/browser/8b1a92b5-29ee-4c14-8a29-cf6b37514a90
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://st.vk.com/dist/web/grip.7ada28367f5da83dade5.js?9a82c4e69693912d9eda2383ea31b2f8, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://vk.com."
+1662751067385	Marionette	INFO	Stopped listening on port 50485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
